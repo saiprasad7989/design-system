@@ -24,7 +24,7 @@ export default function Home() {
         <div className="space-y-2">
           <h1 className="text-5xl font-bold tracking-tight">Geist Design System</h1>
           <p className="text-xl text-muted-foreground">
-            A comprehensive component library with 44+ components replicating Vercel&apos;s design language
+            A comprehensive component library with 60+ components replicating Vercel&apos;s design language
           </p>
         </div>
 
